@@ -178,3 +178,49 @@ textarea {
 }
 
 /***************************** END NORMALIZATION *****************************/
+
+/* =======BASE STYLES======== */
+html {
+  font-size: 1.125em;/* 18 / 16 px */
+  line-height: 1.2em;/* 18 * 1.2 */
+  background-color: #aeadad;
+}
+
+p {
+  font-size: 1.44em;
+  line-height: 1.728em;
+  padding-bottom: 10%;
+  padding-top: 5%;
+  text-align: center;
+}
+
+input[type="submit"] {
+  color: #000000;
+  background-color: #00c5ff;
+  border-color: black;
+  border-radius: 5%;
+  border-style: solid;
+  font-weight: bolder;
+}
+
+input {
+  background-color: white;
+  border: 0.05em solid black;
+}
+
+
+/* ======LAYOUT STYLES======== */
+
+/* ====MODULAR STYLES======== */
+
+label,
+input {
+  box-sizing: border-box;
+  display: block;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+li {
+  padding-bottom: 1.2em;
+}

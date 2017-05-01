@@ -8,18 +8,19 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. https://web.wsu.edu/2015/07/15/website-usability-checklist/
+2. http://drpete.co/?topic=25-point-website-usability-checklist
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. All major pages are accessible from the homepage
+2. Critical Content Is Above The Fold
+3. Font size is legible
+4. Related topics are located together
+5. HTML Page Titles Are Explanatory
+6. Adequate Text-to-Background Contrast
+7. Site Load-time Is Reasonable
+8. Contact information has a clear path to it site-wide
+9. The scope of the products and services are visible and quickly
+understood on the homepage
+10. Number of Buttons/Links Is Reasonable

@@ -12,14 +12,14 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: looking at it makes me feel like its sturdy, trustworthy.
 
-* Behavioral:
+* Behavioral: Looks sleek, and doesnt draw attention. People who know a nice boot appreciate it but I dont get people going "oh my god look at his shoes"
 
-* Reflective:
+* Reflective: It makes me feel worse when i dont wear my boots, like if I were to just wear gym shoes. My feet don't feel snug and protected.
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. Make the user feel Safe
+2. Dont try and win the user over with over flashiness
+3. Do what needs to be done, not abunch of extra stuff that could be confusing
